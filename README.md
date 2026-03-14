@@ -47,7 +47,7 @@ Desenvolvedor de Software focado em soluções Desktop e Administrador de Sistem
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/tamerson-bonfa-2a316b14b/](https://www.linkedin.com/in/tamerson-bonfa-1a05621b1/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tamerson-bonfa-1a05621b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tamersonbonfa@outlook.com">
