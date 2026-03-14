@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Tamerson! 👋
 
-<!--
-**tamersonbonfa/tamersonbonfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | System Administrator
 
-Here are some ideas to get you started:
+<details>
+<summary>🛠️ <strong>Minhas Tecnologias</strong></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Linguagens:** Python, SQL
+* **Desktop:** PySide6, PyQt
+* **Infra:** Windows Server, SQLite, Cloudflare
+
+</details>
+
+<details>
+<summary>🚀 <strong>Projetos em Destaque</strong></summary>
+
+* [Desktop Management System](https://github.com/tamersonbonfa/pyqt-store-management) - Gestão comercial em Python.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamersonbonfa&show_icons=true&theme=dark" alt="Stats">
+</p>
