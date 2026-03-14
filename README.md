@@ -1,50 +1,51 @@
-# Olá, eu sou o Tamerson Bonfa! 👋
+# Hi, I'm Tamerson Bonfa! 👋
 
-Desenvolvedor de Software focado em soluções Desktop e Administrador de Sistemas com experiência em ambientes Windows Server.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<details>
-<summary>🌐 <strong>Desenvolvimento Web & Backend</strong></summary>
-
-* **PHP:** Experiência com ambientes XAMPP 8.x para aplicações locais e servidores.
-* **Python:** Foco em automação de sistemas e scripts de alta performance.
-* **Bancos de Dados:** SQL Server (Gestão e Consultas) e SQLite (Persistência local leve).
-
-</details>
-
-<details>
-<summary>🖥️ <strong>Desenvolvimento Desktop (GUI)</strong></summary>
-
-* **Frameworks:** Python com PySide6 e PyQt para interfaces modernas e responsivas.
-* **Projetos:** Desktop Management System (Sistema de Gestão Comercial).
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Infraestrutura & SysAdmin</strong></summary>
-
-* **OS:** Windows Server (Configuração, Segurança e Administração).
-* **Networking:** Configuração de SSL, Cloudflare e acesso interno/externo via Apache.
-* **Games:** Administração e desenvolvimento de infraestrutura para servidores Mu Online.
-
-</details>
+Software Developer focused on Desktop solutions and Systems Administrator with extensive experience in Windows Server environments.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Technologies & Tools
+
+<details>
+<summary>🌐 <strong>Web & Backend Development</strong></summary>
+
+* **Node.js:** Developing scalable APIs (Express) and modern backend services.
+* **PHP:** Experience with XAMPP 8.x environments for local and server-side applications.
+* **Python:** Expert focus on system automation and high-performance scripting.
+* **Databases:** SQL Server (Management & Querying) and SQLite (Lightweight local persistence).
+
+</details>
+
+<details>
+<summary>🖥️ <strong>Desktop Development (GUI)</strong></summary>
+
+* **Frameworks:** Python using PySide6 and PyQt for modern, responsive, and robust interfaces.
+* **Key Projects:** Desktop Management Systems (Commercial and Administrative solutions).
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Infrastructure & SysAdmin</strong></summary>
+
+* **OS:** Windows Server (Configuration, Security, and Active Administration).
+* **Networking:** SSL configuration, Cloudflare integration, and Apache internal/external access management.
+* **Gaming:** Infrastructure development and administration for Mu Online servers.
+
+</details>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamersonbonfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Tamerson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamersonbonfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Tamerson's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamersonbonfa&layout=compact&theme=dark&langs_count=6" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamersonbonfa&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tamerson-bonfa-1a05621b1/" target="_blank">
@@ -58,5 +59,5 @@ Desenvolvedor de Software focado em soluções Desktop e Administrador de Sistem
 ---
 
 <p align="center">
-  <em>"Transformando lógica em soluções robustas, do servidor à interface."</em>
+  <em>"Turning logic into robust solutions, from the server room to the user interface."</em>
 </p>
